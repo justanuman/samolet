@@ -572,7 +572,11 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: CROSS_PLATFORM_INPUT
+    4: CROSS_PLATFORM_INPUT;MOBILE_INPUT
+    7: CROSS_PLATFORM_INPUT;MOBILE_INPUT
+    14: MOBILE_INPUT
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
@@ -648,7 +652,7 @@ PlayerSettings:
   vrEditorSettings: {}
   cloudServicesEnabled:
     Analytics: 1
-    Build: 0
+    Build: 1
     Collab: 1
     Game Performance: 0
     Purchasing: 0
@@ -668,11 +672,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: ffdf9753-e4a4-467c-be8e-6a35bc33afaf
+  cloudProjectId: 7b081fbf-be08-4130-8e6d-102e4d846f0c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Project 2
-  organizationId: max900777
+  organizationId: justanuman
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   virtualTexturingSupportEnabled: 0

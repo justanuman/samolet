@@ -13,8 +13,684 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys: []
-    m_Values: 
+    m_Keys:
+    - Assets/07.03_utro.unity
+    - Assets/07.03_utro.unity.meta
+    - Assets/07.03_utro_try2.unity
+    - Assets/07.03_utro_try2.unity.meta
+    - Assets/20200208113652_1.jpg
+    - Assets/20200208113652_1.jpg.meta
+    - Assets/BasicFlight.cs
+    - Assets/BasicFlight.cs.meta
+    - Assets/Flight_Script.cs
+    - Assets/Flight_Script.cs.meta
+    - Assets/Fly.js
+    - Assets/Fly.js.meta
+    - Assets/Ground Detect.js
+    - Assets/Ground Detect.js.meta
+    - Assets/Ground textures pack.meta
+    - Assets/Ground textures pack/Dry ground.meta
+    - Assets/Ground textures pack/Dry ground/Dry ground pattern.mat
+    - Assets/Ground textures pack/Dry ground/Dry ground pattern.mat.meta
+    - Assets/Ground textures pack/Dry ground/diffuse.tga
+    - Assets/Ground textures pack/Dry ground/diffuse.tga.meta
+    - Assets/Ground textures pack/Dry ground/normal.tga
+    - Assets/Ground textures pack/Dry ground/normal.tga.meta
+    - Assets/Ground textures pack/Dry ground/preview.jpg
+    - Assets/Ground textures pack/Dry ground/preview.jpg.meta
+    - Assets/Ground textures pack/Grass & dead leafs 01.meta
+    - Assets/Ground textures pack/Grass & dead leafs 01/Grass & dead leafs pattern
+      01.mat
+    - Assets/Ground textures pack/Grass & dead leafs 01/Grass & dead leafs pattern
+      01.mat.meta
+    - Assets/Ground textures pack/Grass & dead leafs 01/diffuse.tga
+    - Assets/Ground textures pack/Grass & dead leafs 01/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass & dead leafs 01/normal.tga
+    - Assets/Ground textures pack/Grass & dead leafs 01/normal.tga.meta
+    - Assets/Ground textures pack/Grass & dead leafs 01/preview.jpg
+    - Assets/Ground textures pack/Grass & dead leafs 01/preview.jpg.meta
+    - Assets/Ground textures pack/Grass & dead leafs 02.meta
+    - Assets/Ground textures pack/Grass & dead leafs 02/Grass & dead leafs pattern
+      02.mat
+    - Assets/Ground textures pack/Grass & dead leafs 02/Grass & dead leafs pattern
+      02.mat.meta
+    - Assets/Ground textures pack/Grass & dead leafs 02/diffuse.tga
+    - Assets/Ground textures pack/Grass & dead leafs 02/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass & dead leafs 02/normal.tga
+    - Assets/Ground textures pack/Grass & dead leafs 02/normal.tga.meta
+    - Assets/Ground textures pack/Grass & dead leafs 02/preview.jpg
+    - Assets/Ground textures pack/Grass & dead leafs 02/preview.jpg.meta
+    - Assets/Ground textures pack/Grass & rocks.meta
+    - Assets/Ground textures pack/Grass & rocks/Grass & rocks pattern.mat
+    - Assets/Ground textures pack/Grass & rocks/Grass & rocks pattern.mat.meta
+    - Assets/Ground textures pack/Grass & rocks/diffuse.tga
+    - Assets/Ground textures pack/Grass & rocks/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass & rocks/normal.tga
+    - Assets/Ground textures pack/Grass & rocks/normal.tga.meta
+    - Assets/Ground textures pack/Grass & rocks/preview.jpg
+    - Assets/Ground textures pack/Grass & rocks/preview.jpg.meta
+    - Assets/Ground textures pack/Grass 01.meta
+    - Assets/Ground textures pack/Grass 01/Grass pattern 01.mat
+    - Assets/Ground textures pack/Grass 01/Grass pattern 01.mat.meta
+    - Assets/Ground textures pack/Grass 01/diffuse.tga
+    - Assets/Ground textures pack/Grass 01/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass 01/normal.tga
+    - Assets/Ground textures pack/Grass 01/normal.tga.meta
+    - Assets/Ground textures pack/Grass 01/preview.jpg
+    - Assets/Ground textures pack/Grass 01/preview.jpg.meta
+    - Assets/Ground textures pack/Grass 02.meta
+    - Assets/Ground textures pack/Grass 02/Grass pattern 02.mat
+    - Assets/Ground textures pack/Grass 02/Grass pattern 02.mat.meta
+    - Assets/Ground textures pack/Grass 02/diffuse.tga
+    - Assets/Ground textures pack/Grass 02/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass 02/normal.tga
+    - Assets/Ground textures pack/Grass 02/normal.tga.meta
+    - Assets/Ground textures pack/Grass 02/preview.jpg
+    - Assets/Ground textures pack/Grass 02/preview.jpg.meta
+    - Assets/Ground textures pack/Grass 03.meta
+    - Assets/Ground textures pack/Grass 03/Grass pattern 03.mat
+    - Assets/Ground textures pack/Grass 03/Grass pattern 03.mat.meta
+    - Assets/Ground textures pack/Grass 03/diffuse.tga
+    - Assets/Ground textures pack/Grass 03/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass 03/normal.tga
+    - Assets/Ground textures pack/Grass 03/normal.tga.meta
+    - Assets/Ground textures pack/Grass 03/preview.jpg
+    - Assets/Ground textures pack/Grass 03/preview.jpg.meta
+    - Assets/Ground textures pack/Grass 04.meta
+    - Assets/Ground textures pack/Grass 04/Grass pattern 04.mat
+    - Assets/Ground textures pack/Grass 04/Grass pattern 04.mat.meta
+    - Assets/Ground textures pack/Grass 04/diffuse.tga
+    - Assets/Ground textures pack/Grass 04/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass 04/normal.tga
+    - Assets/Ground textures pack/Grass 04/normal.tga.meta
+    - Assets/Ground textures pack/Grass 04/preview.jpg
+    - Assets/Ground textures pack/Grass 04/preview.jpg.meta
+    - Assets/Ground textures pack/Grass 05.meta
+    - Assets/Ground textures pack/Grass 05/Grass pattern 05.mat
+    - Assets/Ground textures pack/Grass 05/Grass pattern 05.mat.meta
+    - Assets/Ground textures pack/Grass 05/diffuse.tga
+    - Assets/Ground textures pack/Grass 05/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass 05/normal.tga
+    - Assets/Ground textures pack/Grass 05/normal.tga.meta
+    - Assets/Ground textures pack/Grass 05/preview.jpg
+    - Assets/Ground textures pack/Grass 05/preview.jpg.meta
+    - Assets/Ground textures pack/Grass 06.meta
+    - Assets/Ground textures pack/Grass 06/Grass pattern 06.mat
+    - Assets/Ground textures pack/Grass 06/Grass pattern 06.mat.meta
+    - Assets/Ground textures pack/Grass 06/diffuse.tga
+    - Assets/Ground textures pack/Grass 06/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass 06/normal.tga
+    - Assets/Ground textures pack/Grass 06/normal.tga.meta
+    - Assets/Ground textures pack/Grass 06/preview.jpg
+    - Assets/Ground textures pack/Grass 06/preview.jpg.meta
+    - Assets/Ground textures pack/Ground & moss.meta
+    - Assets/Ground textures pack/Ground & moss/Ground & moss pattern.mat
+    - Assets/Ground textures pack/Ground & moss/Ground & moss pattern.mat.meta
+    - Assets/Ground textures pack/Ground & moss/diffuse.tga
+    - Assets/Ground textures pack/Ground & moss/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground & moss/normal.tga
+    - Assets/Ground textures pack/Ground & moss/normal.tga.meta
+    - Assets/Ground textures pack/Ground & moss/preview.jpg
+    - Assets/Ground textures pack/Ground & moss/preview.jpg.meta
+    - Assets/Ground textures pack/Ground & rocks 01.meta
+    - Assets/Ground textures pack/Ground & rocks 01/Ground & rocks pattern 01.mat
+    - Assets/Ground textures pack/Ground & rocks 01/Ground & rocks pattern 01.mat.meta
+    - Assets/Ground textures pack/Ground & rocks 01/diffuse.tga
+    - Assets/Ground textures pack/Ground & rocks 01/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground & rocks 01/normal.tga
+    - Assets/Ground textures pack/Ground & rocks 01/normal.tga.meta
+    - Assets/Ground textures pack/Ground & rocks 01/preview.jpg
+    - Assets/Ground textures pack/Ground & rocks 01/preview.jpg.meta
+    - Assets/Ground textures pack/Ground & rocks 02.meta
+    - Assets/Ground textures pack/Ground & rocks 02/Ground & rocks pattern 02.mat
+    - Assets/Ground textures pack/Ground & rocks 02/Ground & rocks pattern 02.mat.meta
+    - Assets/Ground textures pack/Ground & rocks 02/diffuse.tga
+    - Assets/Ground textures pack/Ground & rocks 02/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground & rocks 02/normal.tga
+    - Assets/Ground textures pack/Ground & rocks 02/normal.tga.meta
+    - Assets/Ground textures pack/Ground & rocks 02/preview.jpg
+    - Assets/Ground textures pack/Ground & rocks 02/preview.jpg.meta
+    - Assets/Ground textures pack/Ground & rocks 03.meta
+    - Assets/Ground textures pack/Ground & rocks 03/Ground & rocks pattern 03.mat
+    - Assets/Ground textures pack/Ground & rocks 03/Ground & rocks pattern 03.mat.meta
+    - Assets/Ground textures pack/Ground & rocks 03/diffuse.tga
+    - Assets/Ground textures pack/Ground & rocks 03/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground & rocks 03/normal.tga
+    - Assets/Ground textures pack/Ground & rocks 03/normal.tga.meta
+    - Assets/Ground textures pack/Ground & rocks 03/preview.jpg
+    - Assets/Ground textures pack/Ground & rocks 03/preview.jpg.meta
+    - Assets/Ground textures pack/Ground & weeds.meta
+    - Assets/Ground textures pack/Ground & weeds/Ground & weeds.mat
+    - Assets/Ground textures pack/Ground & weeds/Ground & weeds.mat.meta
+    - Assets/Ground textures pack/Ground & weeds/diffuse.tga
+    - Assets/Ground textures pack/Ground & weeds/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground & weeds/normal.tga
+    - Assets/Ground textures pack/Ground & weeds/normal.tga.meta
+    - Assets/Ground textures pack/Ground & weeds/preview.jpg
+    - Assets/Ground textures pack/Ground & weeds/preview.jpg.meta
+    - Assets/Ground textures pack/Ground 01.meta
+    - Assets/Ground textures pack/Ground 01/Ground pattern 01.mat
+    - Assets/Ground textures pack/Ground 01/Ground pattern 01.mat.meta
+    - Assets/Ground textures pack/Ground 01/diffuse.tga
+    - Assets/Ground textures pack/Ground 01/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground 01/normal.tga
+    - Assets/Ground textures pack/Ground 01/normal.tga.meta
+    - Assets/Ground textures pack/Ground 01/preview.jpg
+    - Assets/Ground textures pack/Ground 01/preview.jpg.meta
+    - Assets/Ground textures pack/Ground 02.meta
+    - Assets/Ground textures pack/Ground 02/Ground pattern 02.mat
+    - Assets/Ground textures pack/Ground 02/Ground pattern 02.mat.meta
+    - Assets/Ground textures pack/Ground 02/diffuse.tga
+    - Assets/Ground textures pack/Ground 02/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground 02/normal.tga
+    - Assets/Ground textures pack/Ground 02/normal.tga.meta
+    - Assets/Ground textures pack/Ground 02/preview.jpg
+    - Assets/Ground textures pack/Ground 02/preview.jpg.meta
+    - Assets/Ground textures pack/Lava.meta
+    - Assets/Ground textures pack/Lava/Lava pattern.mat
+    - Assets/Ground textures pack/Lava/Lava pattern.mat.meta
+    - Assets/Ground textures pack/Lava/Materials.meta
+    - Assets/Ground textures pack/Lava/Materials/diffuse.mat
+    - Assets/Ground textures pack/Lava/Materials/diffuse.mat.meta
+    - Assets/Ground textures pack/Lava/diffuse.tga
+    - Assets/Ground textures pack/Lava/diffuse.tga.meta
+    - Assets/Ground textures pack/Lava/emissive.tga
+    - Assets/Ground textures pack/Lava/emissive.tga.meta
+    - Assets/Ground textures pack/Lava/normal.tga
+    - Assets/Ground textures pack/Lava/normal.tga.meta
+    - Assets/Ground textures pack/Lava/preview.jpg
+    - Assets/Ground textures pack/Lava/preview.jpg.meta
+    - Assets/HandPainted Ground Textures.meta
+    - Assets/HandPainted Ground Textures/Demo.meta
+    - Assets/HandPainted Ground Textures/Demo/Scene.meta
+    - Assets/HandPainted Ground Textures/Demo/Scene/Demo.unity
+    - Assets/HandPainted Ground Textures/Demo/Scene/Demo.unity.meta
+    - Assets/HandPainted Ground Textures/Documentation.meta
+    - Assets/HandPainted Ground Textures/Documentation/Documentation.txt
+    - Assets/HandPainted Ground Textures/Documentation/Documentation.txt.meta
+    - Assets/HandPainted Ground Textures/Materials.meta
+    - Assets/HandPainted Ground Textures/Materials/M_GrassFlower.mat
+    - Assets/HandPainted Ground Textures/Materials/M_GrassFlower.mat.meta
+    - Assets/HandPainted Ground Textures/Materials/M_GrassStone.mat
+    - Assets/HandPainted Ground Textures/Materials/M_GrassStone.mat.meta
+    - Assets/HandPainted Ground Textures/Textures.meta
+    - Assets/HandPainted Ground Textures/Textures/Albedo_GrassFlower.tga
+    - Assets/HandPainted Ground Textures/Textures/Albedo_GrassFlower.tga.meta
+    - Assets/HandPainted Ground Textures/Textures/Albedo_GrassStone.tga
+    - Assets/HandPainted Ground Textures/Textures/Albedo_GrassStone.tga.meta
+    - Assets/HandPainted Ground Textures/Textures/NewLayer 1.terrainlayer
+    - Assets/HandPainted Ground Textures/Textures/NewLayer 1.terrainlayer.meta
+    - Assets/HandPainted Ground Textures/Textures/NewLayer.terrainlayer
+    - Assets/HandPainted Ground Textures/Textures/NewLayer.terrainlayer.meta
+    - Assets/New Terrain.asset
+    - Assets/New Terrain.asset.meta
+    - Assets/NewLayer.terrainlayer
+    - Assets/NewLayer.terrainlayer.meta
+    - Assets/NewUSSFile.uss
+    - Assets/NewUSSFile.uss.meta
+    - Assets/PilotScript.cs
+    - Assets/PilotScript.cs.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Simple_Low_Poly_Planes.meta
+    - Assets/Simple_Low_Poly_Planes/Demo.meta
+    - Assets/Simple_Low_Poly_Planes/Demo/Ground.mat
+    - Assets/Simple_Low_Poly_Planes/Demo/Ground.mat.meta
+    - Assets/Simple_Low_Poly_Planes/Demo/Simple_Low_Poly_Mini_Planes.unity
+    - Assets/Simple_Low_Poly_Planes/Demo/Simple_Low_Poly_Mini_Planes.unity.meta
+    - Assets/Simple_Low_Poly_Planes/Documentation.txt
+    - Assets/Simple_Low_Poly_Planes/Documentation.txt.meta
+    - Assets/Simple_Low_Poly_Planes/Materials.meta
+    - Assets/Simple_Low_Poly_Planes/Materials/Simple_Mini_Planes.mat
+    - Assets/Simple_Low_Poly_Planes/Materials/Simple_Mini_Planes.mat.meta
+    - Assets/Simple_Low_Poly_Planes/Materials/Textures.meta
+    - Assets/Simple_Low_Poly_Planes/Materials/Textures/Airplane_smooth_DefaultMaterial_BaseMap.png
+    - Assets/Simple_Low_Poly_Planes/Materials/Textures/Airplane_smooth_DefaultMaterial_BaseMap.png.meta
+    - Assets/Simple_Low_Poly_Planes/Materials/Textures/Airplane_smooth_DefaultMaterial_MaskMap.png
+    - Assets/Simple_Low_Poly_Planes/Materials/Textures/Airplane_smooth_DefaultMaterial_MaskMap.png.meta
+    - Assets/Simple_Low_Poly_Planes/Materials/Textures/Airplane_smooth_DefaultMaterial_Normal.png
+    - Assets/Simple_Low_Poly_Planes/Materials/Textures/Airplane_smooth_DefaultMaterial_Normal.png.meta
+    - Assets/Simple_Low_Poly_Planes/Models.meta
+    - Assets/Simple_Low_Poly_Planes/Models/Simple_Plane_flat.fbx
+    - Assets/Simple_Low_Poly_Planes/Models/Simple_Plane_flat.fbx.meta
+    - Assets/Simple_Low_Poly_Planes/Models/Simple_Plane_smooth.fbx
+    - Assets/Simple_Low_Poly_Planes/Models/Simple_Plane_smooth.fbx.meta
+    - Assets/Simple_Low_Poly_Planes/Prefabs.meta
+    - Assets/Simple_Low_Poly_Planes/Prefabs/Airplane_flat.prefab
+    - Assets/Simple_Low_Poly_Planes/Prefabs/Airplane_flat.prefab.meta
+    - Assets/Simple_Low_Poly_Planes/Prefabs/Airplane_smooth.prefab
+    - Assets/Simple_Low_Poly_Planes/Prefabs/Airplane_smooth.prefab.meta
+    - Assets/StarSparrow.meta
+    - Assets/StarSparrow/Materials.meta
+    - Assets/StarSparrow/Materials/BonusContent.meta
+    - Assets/StarSparrow/Materials/BonusContent/AsteroidsLava_Blue.mat
+    - Assets/StarSparrow/Materials/BonusContent/AsteroidsLava_Blue.mat.meta
+    - Assets/StarSparrow/Materials/BonusContent/AsteroidsLava_Red.mat
+    - Assets/StarSparrow/Materials/BonusContent/AsteroidsLava_Red.mat.meta
+    - Assets/StarSparrow/Materials/BonusContent/Bomb.mat
+    - Assets/StarSparrow/Materials/BonusContent/Bomb.mat.meta
+    - Assets/StarSparrow/Materials/BonusContent/CloudsRed.mat
+    - Assets/StarSparrow/Materials/BonusContent/CloudsRed.mat.meta
+    - Assets/StarSparrow/Materials/BonusContent/FlyingInsect_Purple.mat
+    - Assets/StarSparrow/Materials/BonusContent/FlyingInsect_Purple.mat.meta
+    - Assets/StarSparrow/Materials/BonusContent/Grey.mat
+    - Assets/StarSparrow/Materials/BonusContent/Grey.mat.meta
+    - Assets/StarSparrow/Materials/BonusContent/Mine Sample 1.mat
+    - Assets/StarSparrow/Materials/BonusContent/Mine Sample 1.mat.meta
+    - Assets/StarSparrow/Materials/BonusContent/Mine Sample 2.mat
+    - Assets/StarSparrow/Materials/BonusContent/Mine Sample 2.mat.meta
+    - Assets/StarSparrow/Materials/BonusContent/Missile.mat
+    - Assets/StarSparrow/Materials/BonusContent/Missile.mat.meta
+    - Assets/StarSparrow/Materials/BonusContent/TinniuqPlanet.mat
+    - Assets/StarSparrow/Materials/BonusContent/TinniuqPlanet.mat.meta
+    - Assets/StarSparrow/Materials/StarSparrow Black.mat
+    - Assets/StarSparrow/Materials/StarSparrow Black.mat.meta
+    - Assets/StarSparrow/Materials/StarSparrow Blue.mat
+    - Assets/StarSparrow/Materials/StarSparrow Blue.mat.meta
+    - Assets/StarSparrow/Materials/StarSparrow Cyan.mat
+    - Assets/StarSparrow/Materials/StarSparrow Cyan.mat.meta
+    - Assets/StarSparrow/Materials/StarSparrow Green.mat
+    - Assets/StarSparrow/Materials/StarSparrow Green.mat.meta
+    - Assets/StarSparrow/Materials/StarSparrow Orange.mat
+    - Assets/StarSparrow/Materials/StarSparrow Orange.mat.meta
+    - Assets/StarSparrow/Materials/StarSparrow Purple.mat
+    - Assets/StarSparrow/Materials/StarSparrow Purple.mat.meta
+    - Assets/StarSparrow/Materials/StarSparrow Red.mat
+    - Assets/StarSparrow/Materials/StarSparrow Red.mat.meta
+    - Assets/StarSparrow/Materials/StarSparrow Yellow.mat
+    - Assets/StarSparrow/Materials/StarSparrow Yellow.mat.meta
+    - Assets/StarSparrow/Materials/Unified.meta
+    - Assets/StarSparrow/Materials/Unified/StarSparrow Blue.mat
+    - Assets/StarSparrow/Materials/Unified/StarSparrow Blue.mat.meta
+    - Assets/StarSparrow/Materials/Unified/StarSparrow Green.mat
+    - Assets/StarSparrow/Materials/Unified/StarSparrow Green.mat.meta
+    - Assets/StarSparrow/Materials/Unified/StarSparrow Grey.mat
+    - Assets/StarSparrow/Materials/Unified/StarSparrow Grey.mat.meta
+    - Assets/StarSparrow/Materials/Unified/StarSparrow Red.mat
+    - Assets/StarSparrow/Materials/Unified/StarSparrow Red.mat.meta
+    - Assets/StarSparrow/Materials/Unified/StarSparrow White.mat
+    - Assets/StarSparrow/Materials/Unified/StarSparrow White.mat.meta
+    - Assets/StarSparrow/Meshes.meta
+    - Assets/StarSparrow/Meshes/BonusContent.meta
+    - Assets/StarSparrow/Meshes/BonusContent/AsteroidsSample.FBX
+    - Assets/StarSparrow/Meshes/BonusContent/AsteroidsSample.FBX.meta
+    - Assets/StarSparrow/Meshes/BonusContent/Clouds.FBX
+    - Assets/StarSparrow/Meshes/BonusContent/Clouds.FBX.meta
+    - Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3.FBX
+    - Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3.FBX.meta
+    - Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing1.FBX
+    - Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing1.FBX.meta
+    - Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing2.FBX
+    - Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing2.FBX.meta
+    - Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing3.FBX
+    - Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing3.FBX.meta
+    - Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing4.FBX
+    - Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing4.FBX.meta
+    - Assets/StarSparrow/Meshes/BonusContent/MinesSample.FBX
+    - Assets/StarSparrow/Meshes/BonusContent/MinesSample.FBX.meta
+    - Assets/StarSparrow/Meshes/BonusContent/MissilesSample.FBX
+    - Assets/StarSparrow/Meshes/BonusContent/MissilesSample.FBX.meta
+    - Assets/StarSparrow/Meshes/BonusContent/Planet.FBX
+    - Assets/StarSparrow/Meshes/BonusContent/Planet.FBX.meta
+    - Assets/StarSparrow/Meshes/StarSparrowExamples1.FBX
+    - Assets/StarSparrow/Meshes/StarSparrowExamples1.FBX.meta
+    - Assets/StarSparrow/Meshes/StarSparrowExamples2.FBX
+    - Assets/StarSparrow/Meshes/StarSparrowExamples2.FBX.meta
+    - Assets/StarSparrow/Meshes/StarSparrowModules.FBX
+    - Assets/StarSparrow/Meshes/StarSparrowModules.FBX.meta
+    - Assets/StarSparrow/Prefabs.meta
+    - Assets/StarSparrow/Prefabs/BonusContent.meta
+    - Assets/StarSparrow/Prefabs/BonusContent/Asteroid Lava Blue.prefab
+    - Assets/StarSparrow/Prefabs/BonusContent/Asteroid Lava Blue.prefab.meta
+    - Assets/StarSparrow/Prefabs/BonusContent/Asteroid Lava Red.prefab
+    - Assets/StarSparrow/Prefabs/BonusContent/Asteroid Lava Red.prefab.meta
+    - Assets/StarSparrow/Prefabs/BonusContent/Bomb.prefab
+    - Assets/StarSparrow/Prefabs/BonusContent/Bomb.prefab.meta
+    - Assets/StarSparrow/Prefabs/BonusContent/Flying Insect.prefab
+    - Assets/StarSparrow/Prefabs/BonusContent/Flying Insect.prefab.meta
+    - Assets/StarSparrow/Prefabs/BonusContent/Mine Sample 1.prefab
+    - Assets/StarSparrow/Prefabs/BonusContent/Mine Sample 1.prefab.meta
+    - Assets/StarSparrow/Prefabs/BonusContent/Mine Sample 2.prefab
+    - Assets/StarSparrow/Prefabs/BonusContent/Mine Sample 2.prefab.meta
+    - Assets/StarSparrow/Prefabs/BonusContent/Missile.prefab
+    - Assets/StarSparrow/Prefabs/BonusContent/Missile.prefab.meta
+    - Assets/StarSparrow/Prefabs/BonusContent/Tinniuq Planet.prefab
+    - Assets/StarSparrow/Prefabs/BonusContent/Tinniuq Planet.prefab.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow1.prefab
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow1.prefab.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow10.prefab
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow10.prefab.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow11.prefab
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow11.prefab.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow12.prefab
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow12.prefab.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow13.prefab
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow13.prefab.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow2.prefab
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow2.prefab.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow3.prefab
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow3.prefab.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow4.prefab
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow4.prefab.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow5.prefab
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow5.prefab.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow6.prefab
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow6.prefab.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow7.prefab
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow7.prefab.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow8.prefab
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow8.prefab.meta
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow9.prefab
+    - Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow9.prefab.meta
+    - Assets/StarSparrow/Prefabs/Modules.meta
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Core.prefab
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Core.prefab.meta
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Engine.prefab
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Engine.prefab.meta
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Plasma.prefab
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Plasma.prefab.meta
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Thruster.prefab
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Thruster.prefab.meta
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Weapon.prefab
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Weapon.prefab.meta
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing_1.prefab
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing_1.prefab.meta
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing_2.prefab
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing_2.prefab.meta
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing_3.prefab
+    - Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing_3.prefab.meta
+    - Assets/StarSparrow/Prefabs/StarSparrow1.prefab
+    - Assets/StarSparrow/Prefabs/StarSparrow1.prefab.meta
+    - Assets/StarSparrow/Prefabs/StarSparrow10.prefab
+    - Assets/StarSparrow/Prefabs/StarSparrow10.prefab.meta
+    - Assets/StarSparrow/Prefabs/StarSparrow11.prefab
+    - Assets/StarSparrow/Prefabs/StarSparrow11.prefab.meta
+    - Assets/StarSparrow/Prefabs/StarSparrow12.prefab
+    - Assets/StarSparrow/Prefabs/StarSparrow12.prefab.meta
+    - Assets/StarSparrow/Prefabs/StarSparrow13.prefab
+    - Assets/StarSparrow/Prefabs/StarSparrow13.prefab.meta
+    - Assets/StarSparrow/Prefabs/StarSparrow2.prefab
+    - Assets/StarSparrow/Prefabs/StarSparrow2.prefab.meta
+    - Assets/StarSparrow/Prefabs/StarSparrow3.prefab
+    - Assets/StarSparrow/Prefabs/StarSparrow3.prefab.meta
+    - Assets/StarSparrow/Prefabs/StarSparrow4.prefab
+    - Assets/StarSparrow/Prefabs/StarSparrow4.prefab.meta
+    - Assets/StarSparrow/Prefabs/StarSparrow5.prefab
+    - Assets/StarSparrow/Prefabs/StarSparrow5.prefab.meta
+    - Assets/StarSparrow/Prefabs/StarSparrow6.prefab
+    - Assets/StarSparrow/Prefabs/StarSparrow6.prefab.meta
+    - Assets/StarSparrow/Prefabs/StarSparrow7.prefab
+    - Assets/StarSparrow/Prefabs/StarSparrow7.prefab.meta
+    - Assets/StarSparrow/Prefabs/StarSparrow8.prefab
+    - Assets/StarSparrow/Prefabs/StarSparrow8.prefab.meta
+    - Assets/StarSparrow/Prefabs/StarSparrow9.prefab
+    - Assets/StarSparrow/Prefabs/StarSparrow9.prefab.meta
+    - Assets/StarSparrow/Readme.meta
+    - Assets/StarSparrow/Readme/Readme Files.meta
+    - Assets/StarSparrow/Readme/Readme Files/Icons.meta
+    - Assets/StarSparrow/Readme/Readme Files/Icons/HelpStarSparrow_Icon.png
+    - Assets/StarSparrow/Readme/Readme Files/Icons/HelpStarSparrow_Icon.png.meta
+    - Assets/StarSparrow/Readme/Readme Files/Icons/ReadMeStarSparrow_Icon.png
+    - Assets/StarSparrow/Readme/Readme Files/Icons/ReadMeStarSparrow_Icon.png.meta
+    - Assets/StarSparrow/Readme/Readme Files/LayoutStarSparrow.wlt
+    - Assets/StarSparrow/Readme/Readme Files/LayoutStarSparrow.wlt.meta
+    - Assets/StarSparrow/Readme/Readme Files/Scripts.meta
+    - Assets/StarSparrow/Readme/Readme Files/Scripts/Editor.meta
+    - Assets/StarSparrow/Readme/Readme Files/Scripts/Editor/ReadmeStarSparrowEditor.cs
+    - Assets/StarSparrow/Readme/Readme Files/Scripts/Editor/ReadmeStarSparrowEditor.cs.meta
+    - Assets/StarSparrow/Readme/Readme Files/Scripts/ReadmeStarSparrow.cs
+    - Assets/StarSparrow/Readme/Readme Files/Scripts/ReadmeStarSparrow.cs.meta
+    - Assets/StarSparrow/Readme/ReadmeStarSparrow.asset
+    - Assets/StarSparrow/Readme/ReadmeStarSparrow.asset.meta
+    - Assets/StarSparrow/Scenes.meta
+    - Assets/StarSparrow/Scenes/BonusContent.unity
+    - Assets/StarSparrow/Scenes/BonusContent.unity.meta
+    - Assets/StarSparrow/Scenes/BonusContentSettings.lighting
+    - Assets/StarSparrow/Scenes/BonusContentSettings.lighting.meta
+    - Assets/StarSparrow/Scenes/StarSparrowExamples.unity
+    - Assets/StarSparrow/Scenes/StarSparrowExamples.unity.meta
+    - Assets/StarSparrow/Scenes/StarSparrowExamplesModular.unity
+    - Assets/StarSparrow/Scenes/StarSparrowExamplesModular.unity.meta
+    - Assets/StarSparrow/Scenes/StarSparrowExamplesModularSettings.lighting
+    - Assets/StarSparrow/Scenes/StarSparrowExamplesModularSettings.lighting.meta
+    - Assets/StarSparrow/Scenes/StarSparrowExamplesSettings.lighting
+    - Assets/StarSparrow/Scenes/StarSparrowExamplesSettings.lighting.meta
+    - Assets/StarSparrow/Scenes/StarSparrowModules.unity
+    - Assets/StarSparrow/Scenes/StarSparrowModules.unity.meta
+    - Assets/StarSparrow/Scenes/StarSparrowModulesSettings.lighting
+    - Assets/StarSparrow/Scenes/StarSparrowModulesSettings.lighting.meta
+    - Assets/StarSparrow/SubstancePainter.meta
+    - Assets/StarSparrow/SubstancePainter/StarSparrow.spp
+    - Assets/StarSparrow/SubstancePainter/StarSparrow.spp.meta
+    - Assets/StarSparrow/Textures.meta
+    - Assets/StarSparrow/Textures/BonusContent.meta
+    - Assets/StarSparrow/Textures/BonusContent/Asteroids.meta
+    - Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Blue.png
+    - Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Blue.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_EmissionBlue.png
+    - Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_EmissionBlue.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_EmissionRed.png
+    - Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_EmissionRed.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Grey.png
+    - Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Grey.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Normal.png
+    - Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Normal.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Red.png
+    - Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Red.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/FlyingInsect.meta
+    - Assets/StarSparrow/Textures/BonusContent/FlyingInsect/FlyingInsect_MetallicSmoothness.png
+    - Assets/StarSparrow/Textures/BonusContent/FlyingInsect/FlyingInsect_MetallicSmoothness.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/FlyingInsect/FlyingInsect_Normal.png
+    - Assets/StarSparrow/Textures/BonusContent/FlyingInsect/FlyingInsect_Normal.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/FlyingInsect/FlyingInsect_Purple.png
+    - Assets/StarSparrow/Textures/BonusContent/FlyingInsect/FlyingInsect_Purple.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Mines.meta
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_Blue.png
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_Blue.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_EmissionBlue.png
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_EmissionBlue.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_MetallicSmoothness.png
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_MetallicSmoothness.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_Normal.png
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_Normal.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_Brown.png
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_Brown.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_EmissionRed.png
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_EmissionRed.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_MetallicSmoothness.png
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_MetallicSmoothness.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_Normal.png
+    - Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_Normal.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb.meta
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_Emission.png
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_Emission.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_Grey.png
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_Grey.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_MetallicSmoothness.png
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_MetallicSmoothness.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_Normal.png
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_Normal.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_Emission.png
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_Emission.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_Grey.png
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_Grey.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_MetallicSmoothness.png
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_MetallicSmoothness.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_Normal.png
+    - Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_Normal.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Planet.meta
+    - Assets/StarSparrow/Textures/BonusContent/Planet/Clouds.png
+    - Assets/StarSparrow/Textures/BonusContent/Planet/Clouds.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Planet/Tinniuq_Albedo.png
+    - Assets/StarSparrow/Textures/BonusContent/Planet/Tinniuq_Albedo.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Planet/Tinniuq_MetallicSmoothness.png
+    - Assets/StarSparrow/Textures/BonusContent/Planet/Tinniuq_MetallicSmoothness.png.meta
+    - Assets/StarSparrow/Textures/BonusContent/Planet/Tinniuq_Normal.png
+    - Assets/StarSparrow/Textures/BonusContent/Planet/Tinniuq_Normal.png.meta
+    - Assets/StarSparrow/Textures/Masks.meta
+    - Assets/StarSparrow/Textures/Masks/StarSparrow_Mask1.png
+    - Assets/StarSparrow/Textures/Masks/StarSparrow_Mask1.png.meta
+    - Assets/StarSparrow/Textures/Masks/StarSparrow_Mask2.png
+    - Assets/StarSparrow/Textures/Masks/StarSparrow_Mask2.png.meta
+    - Assets/StarSparrow/Textures/Masks/StarSparrow_Mask3.png
+    - Assets/StarSparrow/Textures/Masks/StarSparrow_Mask3.png.meta
+    - Assets/StarSparrow/Textures/Masks/StarSparrow_Neutral.png
+    - Assets/StarSparrow/Textures/Masks/StarSparrow_Neutral.png.meta
+    - Assets/StarSparrow/Textures/StarSparrow_Black.png
+    - Assets/StarSparrow/Textures/StarSparrow_Black.png.meta
+    - Assets/StarSparrow/Textures/StarSparrow_Blue.png
+    - Assets/StarSparrow/Textures/StarSparrow_Blue.png.meta
+    - Assets/StarSparrow/Textures/StarSparrow_Cyan.png
+    - Assets/StarSparrow/Textures/StarSparrow_Cyan.png.meta
+    - Assets/StarSparrow/Textures/StarSparrow_Emission.png
+    - Assets/StarSparrow/Textures/StarSparrow_Emission.png.meta
+    - Assets/StarSparrow/Textures/StarSparrow_Green.png
+    - Assets/StarSparrow/Textures/StarSparrow_Green.png.meta
+    - Assets/StarSparrow/Textures/StarSparrow_MetallicSmoothness.png
+    - Assets/StarSparrow/Textures/StarSparrow_MetallicSmoothness.png.meta
+    - Assets/StarSparrow/Textures/StarSparrow_Normal.png
+    - Assets/StarSparrow/Textures/StarSparrow_Normal.png.meta
+    - Assets/StarSparrow/Textures/StarSparrow_Orange.png
+    - Assets/StarSparrow/Textures/StarSparrow_Orange.png.meta
+    - Assets/StarSparrow/Textures/StarSparrow_Purple.png
+    - Assets/StarSparrow/Textures/StarSparrow_Purple.png.meta
+    - Assets/StarSparrow/Textures/StarSparrow_Red.png
+    - Assets/StarSparrow/Textures/StarSparrow_Red.png.meta
+    - Assets/StarSparrow/Textures/StarSparrow_Yellow.png
+    - Assets/StarSparrow/Textures/StarSparrow_Yellow.png.meta
+    - Assets/StarSparrow/Textures/Unified.meta
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_Blue.png
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_Blue.png.meta
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_Emission.png
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_Emission.png.meta
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_Green.png
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_Green.png.meta
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_Grey.png
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_Grey.png.meta
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_MetallicSmoothness.png
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_MetallicSmoothness.png.meta
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_Normal.png
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_Normal.png.meta
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_Red.png
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_Red.png.meta
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_White.png
+    - Assets/StarSparrow/Textures/Unified/StarSparrow_White.png.meta
+    - Assets/Stylized Grass Texture.meta
+    - Assets/Stylized Grass Texture/Materials.meta
+    - Assets/Stylized Grass Texture/Materials/Stylize_Grass.mat
+    - Assets/Stylized Grass Texture/Materials/Stylize_Grass.mat.meta
+    - Assets/Stylized Grass Texture/Materials/Stylize_Grass_diffuse.mat
+    - Assets/Stylized Grass Texture/Materials/Stylize_Grass_diffuse.mat.meta
+    - Assets/Stylized Grass Texture/Scene.meta
+    - Assets/Stylized Grass Texture/Scene/Stylized Grass Texture.unity
+    - Assets/Stylized Grass Texture/Scene/Stylized Grass Texture.unity.meta
+    - Assets/Stylized Grass Texture/Textures.meta
+    - Assets/Stylized Grass Texture/Textures/Vol_42_1_Ambient_Occlusion.png
+    - Assets/Stylized Grass Texture/Textures/Vol_42_1_Ambient_Occlusion.png.meta
+    - Assets/Stylized Grass Texture/Textures/Vol_42_1_Base_Color.png
+    - Assets/Stylized Grass Texture/Textures/Vol_42_1_Base_Color.png.meta
+    - Assets/Stylized Grass Texture/Textures/Vol_42_1_Height.png
+    - Assets/Stylized Grass Texture/Textures/Vol_42_1_Height.png.meta
+    - Assets/Stylized Grass Texture/Textures/Vol_42_1_Normal.png
+    - Assets/Stylized Grass Texture/Textures/Vol_42_1_Normal.png.meta
+    - Assets/Stylized Grass Texture/Textures/Vol_42_1_Roughness.png
+    - Assets/Stylized Grass Texture/Textures/Vol_42_1_Roughness.png.meta
+    - Assets/TextMesh Pro.meta
+    - Assets/TextMesh Pro/Documentation.meta
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+    - Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+    - Assets/TextMesh Pro/Fonts.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+    - Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    - Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+    - Assets/TextMesh Pro/Resources.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+    - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets.meta
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+    - Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets.meta
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+    - Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset
+    - Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+    - Assets/TextMesh Pro/Shaders.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+    - Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+    - Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+    - Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+    - Assets/TextMesh Pro/Sprites.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+    - Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json
+    - Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png
+    - Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+    - Assets/exported_prikol.unitypackage
+    - Assets/exported_prikol.unitypackage.meta
+    - Assets/file_saved 1.scenetemplate
+    - Assets/file_saved 1.scenetemplate.meta
+    - Assets/file_saved 2.scenetemplate
+    - Assets/file_saved 2.scenetemplate.meta
+    - Assets/file_saved.scenetemplate
+    - Assets/file_saved.scenetemplate.meta
+    - Assets/file_saved.unity
+    - Assets/file_saved.unity.meta
+    - Assets/file_saved_scenetemplate.scenetemplate
+    - Assets/file_saved_scenetemplate.scenetemplate.meta
+    - Assets/main.unity
+    - Assets/main.unity.meta
+    - Assets/ne_template.unity
+    - Assets/ne_template.unity.meta
+    - Assets/test1.unity
+    - Assets/test1.unity.meta
+    - ProjectSettings/ProjectSettings.asset
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
