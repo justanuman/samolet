@@ -14,7 +14,7 @@ public class anim_trigger : MonoBehaviour
     {
 
     }
-    bool gears = true;
+    public static bool gears = true;
     bool intr = true;
     // Update is called once per frame
     void Update()

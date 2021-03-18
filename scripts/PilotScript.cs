@@ -26,6 +26,7 @@ public class PilotScript : MonoBehaviour
     private BoxCollider boom_trigger2;
     private CapsuleCollider boom_trigger3;
     public float distToGround = 1f;
+    private bool gears_out;
     // Start is called before the first frame update
     void Start()
     {
@@ -101,10 +102,10 @@ public class PilotScript : MonoBehaviour
         Camera.transform.position = Camera.transform.position * bias + moveCamTo * (1.0f - bias);
         //Camera.transform.LookAt(transform.position + transform.forward * 30.0f);
 
-       /* if (Input.GetKey(KeyCode.A) && (blown==false) && (grounded == false))
+        if (Input.GetKey(KeyCode.A) && (blown==false) && (grounded == false))
             transform.Rotate(0f, -turnSpeed * Time.deltaTime, 0f, Space.World); // Left turn in relation to world not object
         if (Input.GetKey(KeyCode.D) && (blown == false))
-            transform.Rotate(0f, turnSpeed * Time.deltaTime, 0f, Space.World); // As above but right*/
+            transform.Rotate(0f, turnSpeed * Time.deltaTime, 0f, Space.World); // As above but right
 
         if (Input.GetKey(KeyCode.W) && (blown == false) && (grounded == false))
             transform.Rotate(liftSpeed * Time.deltaTime, 0f, 0f); // Descends object Same as actual plane joy stick forward is down
@@ -164,8 +165,13 @@ public class PilotScript : MonoBehaviour
         {
             grav -= 0.0005f;
         }
+        anim_trigger anim_trigger = GameObject.Find("Samolet").GetComponent<anim_trigger>();
+        gears_out = anim_trigger.gears;
+        if ((grounded == true) && (gears_out == false))
+        {
+            transform.position = transform.position + Vector3.up * -0.01f;
+        }
 
-        
 
 
         //Terrain terrain = GetClosestCurrentTerrain(transform.position);

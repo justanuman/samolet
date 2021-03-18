@@ -16,6 +16,7 @@ public class collisionscript : MonoBehaviour
     //UnityEngine.Random.Range(1.0f, 10.0f), UnityEngine.Random.Range(1.0f, 10.0f) , UnityEngine.Random.Range(1.0f, 10.0f)
     void Start()
     {
+        score = 0;
         UnityEngine.Random.seed = (bruh_moment.Second + bruh_moment.Day + bruh_moment.Minute);
     }
 
